@@ -20,7 +20,7 @@ function Recents() {
         <h1 className=" text-2xl ">Recent Creations</h1>
       </div>
 
-      <div className=" grid grid-cols-5 pt-8  gap-1  ">
+      <div className=" grid  lg:grid-cols-5 md:grid-cols-4 grid-cols-2 pt-8  gap-1   ">
         <Card url={anime3} alt={"Ai generated Anime"} />
         <Card url={anime6} alt={"Ai generated Anime"} />
         <Card url={anime7} alt={"Ai generated Anime"} />

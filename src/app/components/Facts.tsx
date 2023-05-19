@@ -8,8 +8,8 @@ function Facts() {
       <div className="py-6  ">
         <Image src={Anime20} alt="anime boy" width={600} className="" />
       </div>
-      <div className="py-4">
-        <h1 className="text-6xl  font-bold">
+      <div className="p-4">
+        <h1 className="text-xl md:text-6xl font-bold">
           Easy ways to use AI <br /> and tools to <br /> build AI.
         </h1>
         <p className="font-light">

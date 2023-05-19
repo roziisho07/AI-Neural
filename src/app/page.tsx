@@ -8,9 +8,9 @@ import Footer from "./components/Footer";
 
 export default function Home() {
   return (
-    <main className="bg-[#0D1721] h-[100vh] w-auto">
+    <main className="bg-[#0D1721] ">
       {/* Heder */}
-      <Header />
+
       {/* Hero */}
       <Hero />
       {/* DEMOS */}
